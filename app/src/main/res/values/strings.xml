@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bluetooth IoT</string>
+    <string name="msg_bluetooth_not_support">Bluetooth is not support</string>
+    <string name="msg_not_found_device">Not found devices. Please try again!</string>
+    <string name="title_scan_device">Scan device</string>
+    <string name="title_unknow_device">Unknown Device</string>
 </resources>
